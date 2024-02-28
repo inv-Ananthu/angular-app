@@ -1,0 +1,30 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.result-container {
+    width: 100%;
+    height: 85vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.content {
+
+    width: 70%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.details {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+
+    border-radius: 5px;
+}
